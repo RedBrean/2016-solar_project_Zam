@@ -7,7 +7,7 @@ from solar_vis import *
 from solar_model import *
 from solar_input import *
 #Hello
-#Hello, w(orl/la)
+#Hello, w(orl/la)d
 perform_execution = False
 """Флаг цикличности выполнения расчёта"""
 
